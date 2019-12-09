@@ -3,7 +3,7 @@ title: home
 banner:
   actions: []
   subtitle: |-
-    ![](/images/banner.jpg)
+    ![]()
 
     Lets shop with us.
   title: QUICKMART
