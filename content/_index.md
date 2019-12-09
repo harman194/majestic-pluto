@@ -7,7 +7,7 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
-  subtitle: harman
+  subtitle: Lets shop with us.
   title: QUICKMART
 sections:
   - component: features.html
