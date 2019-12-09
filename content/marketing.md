@@ -21,3 +21,17 @@ We will sell our products online with the help of online websites and also sell 
 Moreover, we will ask customers to provide their feedback about our services and how can we make more improvements.
 
 Additionally, we provide special offers on special days like black Friday, boxing day , Christmas day and new year. As well as ,when customer purchase online products through website, we will render free delivery to the customers.
+
+Benefits
+
+Attract shoppers.
+
+Promote sales. 
+
+Reward loyal customers. 
+
+Highlight brands and products. 
+
+Maximize holiday sales. 
+
+Manage periods of low consumption.
