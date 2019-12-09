@@ -1,5 +1,5 @@
 ---
-title: Link to GitHub
+title: ' Link to GitHub'
 content_img:
   enabled: false
   url: '#one'
