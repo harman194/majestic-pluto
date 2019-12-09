@@ -8,7 +8,7 @@ sidebar:
   side: left
 menu:
   main:
-    weight: 8
+    weight: 4
 layout: page
 ---
 
