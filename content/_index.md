@@ -6,7 +6,7 @@ banner:
       is_primary: false
       is_scrolly: false
       label: Learn More
-      url: /no-sidebar
+      url: ''
   subtitle: Lets shop with us.
   title: QUICKMART
 sections:
