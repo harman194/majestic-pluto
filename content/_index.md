@@ -1,12 +1,7 @@
 ---
 title: home
 banner:
-  actions:
-    - is_huge: false
-      is_primary: false
-      is_scrolly: false
-      label: Learn More
-      url: ''
+  actions: []
   subtitle: |-
     ![](/images/banner.jpg)
 
