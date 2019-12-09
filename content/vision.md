@@ -9,6 +9,10 @@ content_img:
 sidebar:
   enabled: false
   side: left
+menu:
+  main:
+    name: VISION
+    weight: 2
 layout: page
 ---
 
