@@ -8,7 +8,7 @@ sidebar:
   side: left
 menu:
   main:
-    weight: 3
+    weight: 2
 layout: page
 ---
   My strategic approach is differentiation with following factors 
