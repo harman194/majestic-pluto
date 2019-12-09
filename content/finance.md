@@ -16,7 +16,7 @@ layout: page
 ---
 Firstly,we find the good location to start this business , After that, we will manage lease of the the location which adjustable in my budget. Secondly, me and my partner will select the  bank which will help to the give loan to start this business. Moreover, we will hire employees to divide all the works in efficient manner. The minimum wage of the employees is ($15 per hr). Lastly, we manage all expenses regarding stock ,security, maintenance, electricity and water. All this expenses briefly explain to the banks and insurance company which will issue fund to my organisation which help to open this business.
 
-Estimated expenses of my business per year. I will show all the expenses in following table.
+Estimated expenses of my business per year. 
 
 
 
