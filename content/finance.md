@@ -18,7 +18,7 @@ Firstly,we find the good location to start this business , After that, we will m
 
 Estimated expenses of my business per year. I will show all the expenses in following table.
 
-Sr. No	Item	Cost Per Year	reference
+
 
 1. Lease	$100,000	
 2. Employees salaries	$1,000,000	(minimum $15 per hr)
