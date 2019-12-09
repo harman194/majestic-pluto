@@ -2,10 +2,7 @@
 title: home
 banner:
   actions: []
-  subtitle: |-
-    ![]()
-
-    Lets shop with us.
+  subtitle: Lets shop with us.
   title: QUICKMART
 sections:
   - component: features.html
