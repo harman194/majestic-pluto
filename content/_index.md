@@ -13,35 +13,31 @@ sections:
   - component: features.html
     features:
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          we will provide a spacious parking  free of cost to the customer which
+          they can easily park their vehicles.
         icon:
           enabled: true
           icon: fa-area-chart
           style: style1
-        title: Integer vitae consequat sed magna feugiat
+        title: Spacious Parking
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          My organisation will provide authenticate products and good service to
+          the the customer.Moreover, also render friendly environment to the
+          people.
         icon:
           enabled: true
           icon: fa-pie-chart
           style: style2
-        title: Phasellus libero eu sed augue gravida
+        title: 'Good Environment '
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          we will install a security cameras in my organisation for the safety
+          of people.Furthermore , I also make a security team to manage all the
+          works in effective way.
         icon:
           enabled: true
           icon: fa-cube
           style: style3
-        title: Lacus ultricies sagittis mi dui dapibus
+        title: Security Control
     section_id: features
     type: features
   - actions:
