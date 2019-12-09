@@ -19,32 +19,8 @@ params:
         gradient1: '#16f4cf'
         gradient2: '#6532e5'
 menu:
-  footer:
-    - identifier: normal8
-      name: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      weight: 4
-  main:
-    - identifier: normal4
-      name: Option One
-      parent: submenu
-      url: '#'
-      weight: 1
-    - identifier: normal5
-      name: Option Two
-      parent: submenu
-      url: '#'
-      weight: 2
-    - identifier: normal6
-      name: Option Three
-      parent: submenu
-      url: '#'
-      weight: 3
-    - identifier: normal7
-      name: Option Four
-      parent: submenu
-      url: '#'
-      weight: 4
+  footer: []
+  main: []
 disableKinds:
   - RSS
   - taxonomy
