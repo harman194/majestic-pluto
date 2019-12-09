@@ -17,7 +17,7 @@ layout: page
 
 •	Product differentiation- provide unique products with advertisement which gave me competitor response and attract to people to Buy goods. For instance, in electronic appliances provide a new feature which give the result in fraction of seconds as compare to existing appliances.
 
-strategy
+strategies
 
 This strategy emphasis on selling the goods at the competitive price. Furthermore, Provide
  friendly environment to the customers and also cooperation with colleagues help to manage the different        tasks in time to time. In addition, the plan of exhibitions of equipment’s in different areas will be helpful to attract people and they will visit at my shopping mall .so more and more contacts will be increased.
