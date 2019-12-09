@@ -48,9 +48,9 @@ sections:
     component: cta.html
     section_id: cta
     text: >-
-      To establish an Eco-friendly cultural shopping mall, which is one of its
-      kind and serves the community.
-    title: VISION
+      To create a fun, engaging and Eco-friendly shopping experience for
+      families and children.
+    title: MISSION
     type: cta
   - component: posts.html
     section_id: posts
