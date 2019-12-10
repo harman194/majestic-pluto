@@ -7,10 +7,7 @@ banner:
       is_scrolly: false
       label: Learn More
       url: ''
-  subtitle: |-
-    ![](/images/banner.jpg)
-
-    Lets shop with us.
+  subtitle: Lets shop with us.
   title: QUICKMART
 sections:
   - component: features.html
