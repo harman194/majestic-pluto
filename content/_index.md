@@ -1,8 +1,16 @@
 ---
 title: home
 banner:
-  actions: []
-  subtitle: Lets shop with us.
+  actions:
+    - is_huge: false
+      is_primary: false
+      is_scrolly: false
+      label: Learn More
+      url: ''
+  subtitle: |-
+    ![](/images/banner.jpg)
+
+    Lets shop with us.
   title: QUICKMART
 sections:
   - component: features.html
