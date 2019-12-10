@@ -14,16 +14,18 @@ menu:
     weight: 6
 layout: page
 ---
-**Firstly,we find the good location to start this business , After that, we will manage lease of the the location which adjustable in my budget. Secondly, me and my partner will select the  bank which will help to the give loan to start this business. Moreover, we will hire employees to divide all the works in efficient manner. The minimum wage of the employees is ($15 per hr). Lastly, we manage all expenses regarding stock ,security, maintenance, electricity and water. All this expenses briefly explain to the banks and insurance company which will issue fund to my organisation which help to open this business.**
+Firstly,we find the good location to start this business , After that, we will manage lease of the the location which adjustable in my budget. Secondly, me and my partner will select the  bank which will help to the give loan to start this business. Moreover, we will hire employees to divide all the works in efficient manner. The minimum wage of the employees is ($15 per hr). Lastly, we manage all expenses regarding stock ,security, maintenance, electricity and water. All this expenses briefly explain to the banks and insurance company which will issue fund to my organisation which help to open this business.
 
-**Estimated expenses of my business per year.** 
+Estimated expenses of my business per year. 
 
-1. **Lease	$100,000**	
-2. **Employees salaries	$1,000,000	(minimum $15 per hr)**
-3. **website	$10,000**	
-4. **stock	$3,000,000**	
-5. **maintenance	$50,000**	
-6. **Electricity and Water	$1,00,000**	
-7. **Security	$160,000**	
-8. **My salary	$250,000**	
-9. **Total Expenses	$4,670,000**
+
+
+1. Lease	$100,000	
+2. Employees salaries	$1,000,000	(minimum $15 per hr)
+3. website	$10,000	
+4. stock	$3,000,000	
+5. maintenance	$50,000	
+6. Electricity and Water	$1,00,000	
+7. Security	$160,000	
+8. My salary	$250,000	
+9. Total Expenses	$4,670,000
